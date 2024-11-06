@@ -1,0 +1,2 @@
+# gesture_recognizer
+基于谷歌的mediapipe框架下的手势识别器
