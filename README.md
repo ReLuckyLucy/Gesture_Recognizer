@@ -5,6 +5,18 @@
 # gesture_recognizer
 基于谷歌的mediapipe框架下的手势识别器
 
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/ReLuckyLucy/gesture_recognizer">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ReLuckyLucy/gesture_recognizer">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/ReLuckyLucy/gesture_recognizer?include_prereleases">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ReLuckyLucy/gesture_recognizer">
+</p>
+<p align="center">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ReLuckyLucy/gesture_recognizer">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ReLuckyLucy/gesture_recognizer">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/ReLuckyLucy/gesture_recognizer">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ReLuckyLucy/gesture_recognizer?style=social">
+</p>
 
 ## 部署
 ```
