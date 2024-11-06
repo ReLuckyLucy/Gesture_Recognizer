@@ -18,7 +18,7 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ReLuckyLucy/gesture_recognizer?style=social">
 </p>
 
-## 部署
+## ⌨️部署
 ```
 conda create --name gesture python=3.12
 
@@ -27,12 +27,12 @@ conda activate gesture
 pip install -r requirements.txt
 ```
 
-## 下载模型
+## 💯下载模型
 ```
 !wget -q https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task
 ```
 
-## 运行（图片模式）
+## 🕹️运行（图片模式）
 ```
 python hand_photo_landmarker.py
 ```
@@ -40,7 +40,7 @@ python hand_photo_landmarker.py
  <img src="img\woman_hands.png">
 </div>
 
-## 运行（视频模式）
+## 🕹️运行（视频模式）
 ```
 python hand_video_landmarker.py
 ```
@@ -57,11 +57,11 @@ python hand_video_landmarker.py
 
 
 
-## 下载识别手势模型
+## 🎯下载识别手势模型
 ```
 !wget -q https://storage.googleapis.com/mediapipe-models/gesture_recognizer/gesture_recognizer/float16/1/gesture_recognizer.task
 ```
-## 运行（手势模式）
+## 🕹️运行（手势模式）
 ```
 python hand_video_landmarker.py
 ```
