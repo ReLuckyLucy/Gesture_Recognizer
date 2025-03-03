@@ -2,8 +2,8 @@
  <img alt="logo" height="200px" src="img\logo.png">
 </div>
 
-# gesture_recognizer
-基于谷歌的mediapipe框架下的手势识别器
+<h1 align="center">gesture_recognizer</h1>
+<h1 align="center">基于谷歌的mediapipe框架下的手势识别器</h1>
 
 <p align="center">
     <img alt="GitHub" src="https://img.shields.io/github/license/ReLuckyLucy/Gesture_Recognizer">
