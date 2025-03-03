@@ -14,7 +14,6 @@
 <p align="center">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ReLuckyLucy/Gesture_Recognizer">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ReLuckyLucy/Gesture_Recognizer">
-    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/ReLuckyLucy/Gesture_Recognizer">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ReLuckyLucy/Gesture_Recognizer?style=social">
 </p>
 
